@@ -72,7 +72,7 @@ namespace QLBH.DAL
                         res.SetError(ex.StackTrace);
                     }
                 }
-            }
+            }   ssss
             return res;
         }
 
